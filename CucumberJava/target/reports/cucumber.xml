@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="12.509" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="check login functionaity for hooks" name="Hooks test 1" time="7.335">
+<system-out><![CDATA[
+Given Hooks - user is on login page.........................................passed
+When Hooks - user enters valid username and password........................passed
+And Hooks - clicks on login button..........................................passed
+Then Hooks - user is navigated to the home page.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="check login functionaity for hooks" name="Hooks test 2" time="5.153">
+<system-out><![CDATA[
+Given Hooks - user is on login page.........................................passed
+When Hooks - user enters valid username and password........................passed
+And Hooks - clicks on login button..........................................passed
+Then Hooks - user is navigated to the home page.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
